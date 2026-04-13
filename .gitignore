@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+.env
+*.pkl
+train_status.json
+attendance/
+dataset/
+uploads/
